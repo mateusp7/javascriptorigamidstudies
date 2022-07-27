@@ -1,0 +1,29 @@
+/* body {
+    background: blue;
+}
+
+body.active {
+    background: red;
+} */
+
+.cronometro {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    gap: 20px;
+}
+
+.cronometro button {
+    padding: 10px 20px;
+    border: 2px solid #FB5;
+    border-radius: 20%;
+    background: white;
+    color: black;
+    cursor: pointer;
+}
+
+.iniciar:disabled {
+    background: rgba(0, 0, 0, 0.341);
+}
+
