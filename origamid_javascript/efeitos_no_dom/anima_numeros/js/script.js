@@ -1,0 +1,18 @@
+import initScrollSuave from './modules/scroll-suave.js';
+initScrollSuave();
+import initAnimacaoScroll from './modules/animacao-scroll.js';
+initAnimacaoScroll();
+import initTabNav from './modules/animacao-tab.js';
+initTabNav();
+import initAccordion from './modules/animacao-accordion.js';
+initAccordion();
+import initModal from './modules/modal.js';
+initModal();
+import initToolTip from './modules/tooltip.js';
+initToolTip();
+import initDropdownMenu from './modules/dropdown-menu.js';
+initDropdownMenu();
+import initMenuMobile from './modules/menu-mobile.js';
+initMenuMobile();
+import initAnimaNumeros from './modules/anima-numeros.js';
+initAnimaNumeros();
